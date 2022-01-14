@@ -14,7 +14,7 @@ obj = [
 
   {
   "servico":"Massagem",
-  "descricao":"Massagem para drenagem,redutora",
+  "descricao":"Massagem para drenagem redutora",
   "valor":"$220,00"
   }
 ]
