@@ -3,7 +3,7 @@ console.log('criar tabela 2')
 obj = [
   {
   "servico":"Massagem",
-  "descricao":"massagem com pedras quentes",
+  "descricao":"Massagem com pedras quentes",
   "valor":"$250,00"
   },
   {
@@ -34,36 +34,36 @@ obj2 = [
 
   {
   "servico":"Depilação",
-  "descricao":"depilação de virilha",
+  "descricao":"Depilação de virilha",
   "valor":"$70,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"depilação de intima",
+    "descricao":"Depilação de intima",
     "valor":"$50,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"depilação de braço",
+    "descricao":"Depilação de braço",
     "valor":"$35,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"depilação meia perna",
+    "descricao":"Depilação meia perna",
     "valor":"$50,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"depilação de coxas",
+    "descricao":"Depilação de coxas",
     "valor":"$60,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"depilação de buço",
+    "descricao":"Depilação de buço",
     "valor":"$25,00"
   },{
     "servico":"Depilação",
-    "descricao":"depilação de axila",
+    "descricao":"Depilação de axila",
     "valor":"$35,00"
   },
  
