@@ -21,19 +21,11 @@
 
 body{
   padding: 16px;
-  font-family: Verdana,Sans-Serif;
   width: 100%;
 
 }
 
 
-main{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-}
 
 .boxhome{
   border-width: 0.1px;
@@ -41,18 +33,52 @@ main{
   border-radius: 8px;
   border-color: #7B68EE;
   padding:10px ;
-  margin: 8px;
 
 }
 
-.avatar{
-  width: 45px;
-  right: 45px;
+
+
+h3{
+  color: var(--primary);
+  font-size: 20px;
+  margin-bottom: 8px;
+  margin-top: 20px;
+  margin-left: 2px;
+}
+
+.redes{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 20px;
+ 
+}
+
+.icom{
+  width: 35px;
+  right: 35px;
   border-radius: 50px;
-  margin-left: auto;
   margin-top: auto;
-  margin-bottom: auto;
 } 
+
+.picom{
+  color:var(--primary);
+  margin-top:20px;
+  font-size: 18px;
+  margin-left: 8px;
+}
+
+.facebook{
+  display: flex;
+  flex-direction: row;
+  margin-right: 16px;
+  border-width: 0.1px;
+  border-style:solid;
+  border-radius: 8px;
+  border-color: #7B68EE;
+  padding:10px ;
+}
+
 
 .div_logo{
   display: flex;
@@ -90,9 +116,7 @@ main{
 } 
 
 .apresentacao{
- 
-  padding:10px ;
-  margin: 8px;
+   margin: 8px;
   margin-top: 20px;
 }
 
@@ -107,7 +131,7 @@ h2{
   font-size: 20px;
   margin-bottom: 8px;
   margin-top: 20px;
-  margin-left: 12px;
+  margin-left: 2px;
 }
 
 .txt_apresentacao{
@@ -200,6 +224,8 @@ h2{
   margin-left: auto;
   margin-right: auto;
 }
+
+
 
 
 .txtrodape{
