@@ -28,7 +28,7 @@ obj2 = [
   },
   {
   "servico":"Manicure",
-  "descricao":"Somente as mãos",
+  "descricao":"Somente mãos",
   "valor":"$75,00"
   },
   {
