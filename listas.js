@@ -31,39 +31,48 @@ obj2 = [
   "descricao":"Somente as mãos",
   "valor":"$75,00"
   },
-
+  {
+  "servico":"Manicure",
+  "descricao":"Somente pé",
+  "valor":"$90,00"
+  },
+  {
+  "servico":"Estética",
+  "descricao":"Sobrancelha",
+  "valor":"$50,00"
+  },
   {
   "servico":"Depilação",
-  "descricao":"Depilação de virilha",
+  "descricao":"virilha",
   "valor":"$70,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"Depilação de intima",
+    "descricao":"intima",
     "valor":"$50,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"Depilação de braço",
+    "descricao":"braços",
     "valor":"$35,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"Depilação meia perna",
+    "descricao":"meia perna",
     "valor":"$50,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"Depilação de coxas",
+    "descricao":"coxas",
     "valor":"$60,00"
   },
   {
     "servico":"Depilação",
-    "descricao":"Depilação de buço",
+    "descricao":"buço",
     "valor":"$25,00"
   },{
     "servico":"Depilação",
-    "descricao":"Depilação de axila",
+    "descricao":"axila",
     "valor":"$35,00"
   },
  
