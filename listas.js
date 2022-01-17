@@ -3,18 +3,18 @@ console.log('criar tabela 2')
 obj = [
   {
   "servico":"Massagem",
-  "descricao":"Massagem com pedras quentes",
+  "descricao":"com pedras quentes",
   "valor":"$250,00"
   },
   {
   "servico":"Massagem",
-  "descricao":"Massagem relaxante",
+  "descricao":"relaxante",
   "valor":"$180,00"
   },
 
   {
   "servico":"Massagem",
-  "descricao":"Massagem para drenagem redutora",
+  "descricao":"drenagem redutora",
   "valor":"$220,00"
   }
 ]
