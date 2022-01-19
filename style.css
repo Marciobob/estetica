@@ -17,23 +17,13 @@
   --primary:#7B68EE;
 }
 
-html{
- scroll-behavior: smooth;
-}
 
 body{
+  scroll-behavior: smooth;
   padding: 16px;
   width: 100%;
 }
 
-.boxhome{
-  border-width: 0.1px;
-  border-style:solid;
-  border-radius: 8px;
-  border-color: #7B68EE;
-  padding:10px ;
-  margin-top: 20px;
-}
 
 .div_logo{
   display: flex;
@@ -124,20 +114,25 @@ h2{
   font-family: 'Nunito', sans-serif, var(--semiBold);
 }
 
-.txt_lista_titulo{
-  color: var(--primary);
+
+.boxhome{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-width: 0.1px;
+  border-style:solid;
+  border-radius: 8px;
+  border-color: #7B68EE;
+  padding: 4px;
+  margin-top: 20px;
 }
 
-.txt_lista_servico{
+th{
   color: var(--primary);
-  padding-right:18px;
+  text-align: center;
+
 }
 
-.txt_lista_valor{
-  color: var(--primary);
-  padding-left: 15px;
-  padding-right: 10px;
-}
 
 .txt_lista{
   color: var(--primary);
@@ -147,41 +142,6 @@ h2{
   padding:12px;
   text-align: center;
   border-spacing: 8px;
-}
-
-.tabela1{
-  display: flex;
-  flex-direction: column;
-  border-collapse: separate; 
-  border-spacing: 24px;
-  width: 100%;
-  height: 100%;
-}
-
-.tabela2{
-  display: flex;
-  flex-direction: column;
-  border-collapse: separate; 
-  border-spacing: 6px;
-  margin: 0 0 0 0;
-  width: 100%;
-
-}
-
-.div_tabela2{
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
-.tabela3{
-  display: flex;
-  flex-direction: column;
-  border-collapse: separate; 
-  border-spacing: 8px;
-  margin: 0 0 0 0;
-  width: 100%;
 }
 
 
@@ -195,17 +155,43 @@ h2{
   border-spacing: 8px;
 }
 
+.div_tabela2{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
+
+.tabela2{
+  display: flex;
+  flex-direction: column;
+  border-collapse: separate; 
+  border-spacing: 6px;
+  margin: 0 0 0 0;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
 .div_tabela3{
   display: flex;
   margin-left: auto;
   margin-right: auto;
+  width: 100%;
+
 }
 
-.div_tabela1{
+.tabela3{
   display: flex;
+  flex-direction: column;
+  border-collapse: separate; 
+  border-spacing: 6px;
+  margin: 0 0 0 0;
   margin-left: auto;
   margin-right: auto;
 }
+
 
 .linha{
   border-top-color:dimgray;
@@ -240,7 +226,7 @@ h3{
 .picom{
   color:var(--primary);
   margin-top:20px;
-  font-size: 18px;
+  font-size: 16px;
   margin-left: 8px;
 }
 
