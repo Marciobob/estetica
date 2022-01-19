@@ -200,7 +200,7 @@ th{
   background-image: url("https://marciobob.github.io/estetica/src/Img/massagem.png");
   background-size: cover;
   width: 100%;
-  height: 350px;
+  height: 370px;
   border-radius: 8px;
 
 }
@@ -211,7 +211,7 @@ th{
   align-items: center;
   flex-direction: column;
   width: 50%;
-  height: 350px;
+  height: 370px;
   margin-left: auto;
   background-color: var(--primary);
   opacity: 0.5;
