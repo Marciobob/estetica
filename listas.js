@@ -9,7 +9,7 @@ obj = [
   {
   "servico":"Massagem",
   "descricao":"relaxante",
-  "valor":"$180,00"
+  "valor":"$200,00"
   },
 
   {
