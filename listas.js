@@ -48,7 +48,7 @@ obj2 = [
   },
   {
     "servico":"Depilação",
-    "descricao":"intima",
+    "descricao":"íntima",
     "valor":"$50,00"
   },
   {
