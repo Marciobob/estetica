@@ -232,6 +232,11 @@ h6{
   font-size: 18px;
 }
 
+.txt_apresentacao2{
+  color:var(--primary);
+  margin-top: 10px;
+}
+
 .p_tabela4{
   color: white;
   font-size: 16px;
